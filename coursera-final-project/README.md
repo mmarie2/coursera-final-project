@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>coursera-final-project</title>
+  <title> coursera-final-project </title>
   </head>
 <body>
 

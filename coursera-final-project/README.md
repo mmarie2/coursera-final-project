@@ -7,7 +7,7 @@
   </head>
 <body>
 
-<h1> Megan Marie Meachem </h1>
+<h1> Megan Marie </h1>
 
 <ul>
   <li>
